@@ -35,7 +35,7 @@ License: copyright commercial
 28. News Section / Two / Three
 29. Main Footer
 **********************************************/
-@import url("../../../../css2");
+/* @import url("../../../../css2"); */
 @import url("animate.css");
 @import url("owl.css");
 @import url("jquery.fancybox.min.css");
